@@ -1,2 +1,6 @@
 # CTTC_Assignment1
-This File Contain The Latest Assignment Of C Language
+👋 Hi, I’m @umerstack
+👀 I’m interested in Programming
+🌱 I’m currently learning C Language and Web Development
+📫 How to reach me Just Dm Me On Gmail
+-- Follow Me For More Tutorials And Source Code
