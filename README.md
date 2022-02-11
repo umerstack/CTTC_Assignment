@@ -1,4 +1,4 @@
-# CTTC_Assignment1
+# CTTC_Assignment
 👋 Hi, I’m @umerstack
 👀 I’m interested in Programming
 🌱 I’m currently learning C Language and Web Development
